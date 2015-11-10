@@ -1,0 +1,13 @@
+This help document explains some of the features implemented in the ftp program
+being used.
+COMMAND		Descpiption
+===============================================================================
+DOWNLOAD	This command is used to download a file from the server.
+			DOWNLOAD filename
+			
+LIST		This command is used to view list of folders and files in current
+			directory on ftp server.
+			LIST
+
+UPLOAD		This command is used to upload a file to the server.
+			UPLOAD filename
